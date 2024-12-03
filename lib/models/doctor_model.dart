@@ -17,7 +17,7 @@ class DoctorModel {
 final List<DoctorModel> nearbyDoctors = [
   DoctorModel(
     name: "Luke Holland",
-    position: "General Practitioner",
+    position: "General Practitionerr",
     averageReview: 0,
     totalReviews: 0,
     profile: "assets/doctor_1.jpg",
