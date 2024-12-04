@@ -1,5 +1,6 @@
 # health-app
- Helth app with beautiful UI 
+Health app with beautiful UI 
+This project is not yet complete and I plan to complete it slowly.
 
 # health_app
 
